@@ -1,7 +1,7 @@
 # auth-core
 
 Gemeinsame, **rein backend-seitige** Benutzerverwaltungs-Logik (Session, Login, Registrierung, Passwort-Reset
-per E-Mail, Admin-CRUD auf Nutzerkonten) für die PHP/Docker-Apps im `C:\Projekte`-Workspace
+per E-Mail, Admin-CRUD auf Nutzerkonten) für die PHP/Docker-Apps im Workspace
 (HTML-Startseite, checklisten, systeminfo-tool, wochendisposition, ...).
 
 Zweck: jede App verwaltet ihre eigenen Benutzerkonten **unabhängig** in einem eigenen lokalen

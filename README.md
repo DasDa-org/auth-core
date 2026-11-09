@@ -15,7 +15,7 @@ ihre eigene visuelle Identität behält. `auth-core` liefert nur PHP-Funktionen 
 ## Einbindung (Git-Submodule)
 
 ```bash
-git submodule add https://github.com/WiSanders-org/auth-core.git www/auth-core
+git submodule add https://github.com/DasDa-org/auth-core.git www/auth-core
 git config -f .gitmodules submodule.www/auth-core.branch main
 git add .gitmodules www/auth-core
 git commit -m "chore: gemeinsame Benutzerverwaltung als Submodule einbinden"
